@@ -1,0 +1,6 @@
+pip install streamlit
+pip install streamlit-option-menu
+pip install folium
+pip install python-dotenv
+pip install boto3
+pip install streamlit-folium
